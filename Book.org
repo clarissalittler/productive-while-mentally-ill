@@ -3,8 +3,31 @@
 #+OPTIONS: toc:nil
 
 * Introduction
-* When Write Every Day Doesn't Work
+  Do you read productivity books and blogs, hoping to find a way to get more done each day, but feel ashamed because you can't 
+* My Background
+
 * When You've Never Had a Comfort Zone
+  One piece of advice that I see *repeatedly* in productivity books and blogs is that you should try to get out of your "comfort zone". You can always find tips about how to get more done and turn your life around by being willing to "take risks" or "get out of your comfort zone". I've never really related to this advice because, well, I'm *literally never comfortable*. 
+  
+  I used to always feel like I was being incredibly grouchy or facetious when I made that joke, but the more I've thought about it and the more people I've talked to the more I think there's some truth to it: a lot of mental disabilities mean that you never get the opportunity to be really ever be comfortable. 
+
+  What I mean by this is that when you're constantly fighting anxiety or when you're hyper-vigilant or struggling to stay connected to reality, *everything* you do can carry a cognitive load that never lets you feel safe and in control.
+
+  That's really what self-help books mean when they say "get out of your comfort zone", they're suggesting that you allow yourself to be unsafe and feel out of control, but in some kind of limited way. I understand the utility! It can be important to take risks, to try new things, to gamble on big ideas, but to me it always comes across as chiding, perhaps even insulting, during those times when getting out of bed in the morning felt like the limit of what I could do. 
+
+  When you're dealing with fear that's outside of your control, fear that comes from mental illness and disability, then you may not have the ability to push any further: and that's okay! 
+
+  It's alright to not have it in you to take further risks when you're already at your limits. You can allow yourself to have a little bit of safety when you need it.
+
+  If you're like me, then this might be a very scary proposition. I'm always terrified that if I'm not ready to "get out of my comfort zone" every day, that I'm somehow just complacent and that I'll *never* actually take any risks or accomplish anything. It's always now or never. 
+
+  Of course, that's not really how any of this works. It's not a dichotomy between pushing yourself into following your dreams *right this moment* or never, ever reaching them. 
+
+  Allow yourself to consider *this day* in isolation. If you need *this day* in rest, you should take it. All those risks and ridiculous ideas you have can wait for you to have the strength to fight for them. 
+* When Write Every Day Doesn't Work
+  I always heard the maxim "write every day". Just write X words per day and you'll have an amazing career as a writer. It's what makes you a real writer. Real writers write whenever they can. Real writers can't be stopped from writing every day. Real writers claw their way, barehanded, from the depths of the underworld in order to reach their vintage typewriter and *write every day*.
+
+  
 * Hitting Your Limits
 * Needing Breaks
 * Worth and Work
@@ -12,3 +35,7 @@
 * Recovering From a Breakdown
 * Organizing Around Your Memory
 * Communication and Anxiety
+* Illness Isn't Procrastination
+* Invisible Disability Is Still Disability
+* Mind Over Matter When Mind Is The Matter
+
