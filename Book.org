@@ -9,7 +9,7 @@
 * When You've Never Had a Comfort Zone
   One piece of advice that I see *repeatedly* in productivity books and blogs is that you should try to get out of your "comfort zone". You can always find tips about how to get more done and turn your life around by being willing to "take risks" or "get out of your comfort zone". I've never really related to this advice because, well, I'm *literally never comfortable*. 
   
-  I used to always feel like I was being incredibly grouchy or facetious when I made that joke, but the more I've thought about it and the more people I've talked to the more I think there's some truth to it: a lot of mental disabilities mean that you never get the opportunity to be really ever be comfortable. 
+  I used to always feel like I was being incredibly grouchy or facetious when I made that joke, but the more I've thought about it and the more people I've talked to the more I think there's some truth to it: a lot of mental disabilities mean that you never get the opportunity to ever really be comfortable. 
 
   What I mean by this is that when you're constantly fighting anxiety or when you're hyper-vigilant or struggling to stay connected to reality, *everything* you do can carry a cognitive load that never lets you feel safe and in control.
 
@@ -24,10 +24,26 @@
   Of course, that's not really how any of this works. It's not a dichotomy between pushing yourself into following your dreams *right this moment* or never, ever reaching them. 
 
   Allow yourself to consider *this day* in isolation. If you need *this day* in rest, you should take it. All those risks and ridiculous ideas you have can wait for you to have the strength to fight for them. 
+* Exponential Growth of Sanity Points
+  So I'm a total dork. I'm an oldschool console RPG player who played the *original* Final Fantasy for the NES when I was just a really little girl. MP (magic points) and HP (hit points), have thus been a metaphor that's as old to me as my own sentience. 
+
+  I think that's why I picture my own mental health, only quarter jokingly, as sanity points (SP). On some level, it's not terribly different than the "spoon theory" (ref), but it's a metaphor that I find a bit more convenient.
+
+  I find it helpful to visualize how many SP different actions throughout the day will cost me. I take stock of how many SP I seem to have each morning when I wake up. 
+  (...)
 * When Write Every Day Doesn't Work
   I always heard the maxim "write every day". Just write X words per day and you'll have an amazing career as a writer. It's what makes you a real writer. Real writers write whenever they can. Real writers can't be stopped from writing every day. Real writers claw their way, barehanded, from the depths of the underworld in order to reach their vintage typewriter and *write every day*.
 
-  
+  It's one of those things that people say, and I don't think it's bad advice *when you have the energy*. The problem I've found is that trying to "write every day"/"code every day"/..., is that when you're not giving yourself frequent days of rest you *will* burn out. 
+
+  In my case, burnout tends to look like
+  + inability to concentrate or remember what I was thinking
+  + trouble remembering my own name
+  + inability to recognize people I know
+  + severe suicidal ideation
+  + near-constant panic attacks
+
+
 * Hitting Your Limits
 * Needing Breaks
 * Worth and Work
@@ -38,4 +54,17 @@
 * Illness Isn't Procrastination
 * Invisible Disability Is Still Disability
 * Mind Over Matter When Mind Is The Matter
+* Permission to Fail
+  I think one of the hardest things I deal with in both my personal projects and in my career is not feeling like I have "permission to fail". I'm hardly the first person to talk about the concept, about the need in creative work to know that it's alright to take chances and make mistakes, but I want to specifically discuss my experiences of dealing with it as someone who is severely mentally ill. I would call my experiences something more akin to "permission to be imperfect"
 
+  My problem isn't just that I'm afraid of messing something up dramatically or doing a terrible job. It's more that I'm petrified of even making the slightest mistake. Even while writing this book I have been constantly fighting the urge to delete this repository and nuke it all from orbit [fn:1]. Before each push, I have to fight back a hyperventillating panic because I'm expecting that somehow, someway, someone is going to read the in-progress draft and get so angry at something I said that I'll find hundreds of messages in my inbox telling me to kill myself because I'm clearly so worthless and arrogant for thinking that I was allowed to write any of this. 
+
+It's an irrational response. I know it's an irrational response. It's also a pattern of disordered thinking that's deep seated into how my brain functions. As we've already seen, just knowing that you're experiencing disordered thinking doesn't take the thinking away any more than knowing you have the flu provides you with an immediate cure.
+
+  
+* Footnotes
+
+[fn:1] It's the only way to be sure.
+
+
+  
