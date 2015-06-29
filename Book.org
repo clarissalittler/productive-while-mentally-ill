@@ -3,9 +3,18 @@
 #+OPTIONS: toc:nil
 
 * Introduction
-  Do you read productivity books and blogs, hoping to find a way to get more done each day, but feel ashamed because you can't 
-* My Background
+  Do you read productivity books and blogs, hoping to find a way to get more done each day, but feel ashamed because their advice doesn't work for you mental illness? Have you tried Writing Every Day and ended up hating yourself when you can't? If you have, then you and I have an awful lot in common. I spent my twenties with pretty severe, undiagnosed, mental illnesses, trying to figure out why I was having so much trouble functioning, concentrating, and why just holding down a full-time job left me so drained that I'd fall asleep by 6pm.
 
+  I used to think I was just lazy, unfocused, and sometimes that I was just *stupid* and good-for-nothing. Since then, though, I ended up seeing a therapist---who ended up diagnosing me with cPTSD within a few minutes of talking with me---and have been learning to work /around/ the way my brain functions, rather than constantly fighting against myself. 
+
+  It's not an easy task, nor one I would even say I'm particularly good at, so in a sense this book is just as much a set of reminders and tips for myself as it is for any particular audience. I still need reminders every day and I still often end up hating myself for the times I can't relate to the advice of all of productivity blogs and books I end up reading.
+
+** My Background
+   So as I'm writing this book, I'm in the middle of working on my doctorate in computer science, which has involved learning a lot of lessons on how to work mostly by myself on self-directed projects *while* managing stress, burnout, and mental illness. 
+
+   I've had a lot of mixed success. So far I've had some bad breakdowns, been pretty self-sabotaging, had the closest time I ever came (and hopefully ever will) to succeeding in killing myself, and yet also have managed to not give up and keep trying. 
+** No trick works for everyone (or: did you try exercising?)
+   One of the first things I want to say in this text is that while I'm sharing a lot of my own thoughts about 
 * When You've Never Had a Comfort Zone
   One piece of advice that I see *repeatedly* in productivity books and blogs is that you should try to get out of your "comfort zone". You can always find tips about how to get more done and turn your life around by being willing to "take risks" or "get out of your comfort zone". I've never really related to this advice because, well, I'm *literally never comfortable*. 
   
@@ -42,26 +51,45 @@
   + inability to recognize people I know
   + severe suicidal ideation
   + near-constant panic attacks
-
-
 * Hitting Your Limits
 * Needing Breaks
 * Worth and Work
 * When You Can't (and Shouldn't) Fake It
 * Recovering From a Breakdown
+  If you're like me, then sometimes you're going to have a really, really bad breakdown. The kind that means you're not going to be functional for days or even weeks. I think it takes a lot of different forms. For some people, it's the inability to get out of bed for days at a time. For other's, it's overwhelming anxiety so strong it shuts out every other thought you have.
+
+  For me, it tends to be really severe disassociation and missing time. I'll have gaps in my memories, even going as far as not being able to recall details of months prior to the breakdown. 
+
+  I think it's really disheartening to try and get back into your work after having a period of being unable to do *anything*. It always makes me feel like my attempts to create things or work on my research are completely pointless, because I've lost *all* of my momentum and, if I haven't taken good enough notes (see the next chapter for more on that topic), I may have lost even the plan of what I was doing and all the insights I'd had.
+
+  I've spent
 * Organizing Around Your Memory
+  I've already talked a little bit about having "missing time", which is my largest issue of memory, but I know that problems with memory extend far beyond ptsd and dissociative disorders. So, when you have lots of problems with memory and retaining information, how do you work on projects that last more than a few days?
+
+  The short answer is that you keep massive amounts of notes, on everything. The rest of this section, I want to talk about how *I* keep said notes and stay organized and what kinds of qualities I think a note taking system needs to have.
+
+  The first of which, I think, is that it needs to be *easy to use*. When you're running low on SP, anything that has too much cognitive overhead is likely to be just not done. It's a lot like activation energy in chemistry. If you put in less energy, then *nothing* at all happens. 
+
+  Next, I think, is that it needs to be a system that allows you to categorize your thoughts in an easy to find way. I think that's true of anyone, but when you have memory problems one of the truly difficult problems is when you've *done work you can't remember doing*. I know that I've had problems with this since my childhood, occasionally finding stories or notebooks full of rewritten rules to RPGs that I literally had no memory of ever writing, but it was clearly my handiwork. I still have the problem sometimes of "rediscovering" the same insight about a paper repeatedly, only finding evidence after the fact in some forgotten notebook that I'd already read it and had figured out the same thing. For this reason, any system for taking notes needs to be easily searchable. You don't want to unintentionally duplicate work.
+
+  Also, your system of notetaking needs to be at least somewhat portable. You might need to write down thoughts as you're having them no matter where you are. I know that on some days I can lose whatever I was thinking mere moments later, so I need to write things down immediately. Again, I think this is partially just an experience everyone has some of the time, but I know that mental illness can seriously exacerbate the tendency. 
+
+  My primary tool for note taking is [[http://orgmode.org/][org mode]], which is a major mode for Emacs (Emacs itself being a text-editor-turned-near-operating-system). Now, 
 * Communication and Anxiety
 * Illness Isn't Procrastination
 * Invisible Disability Is Still Disability
 * Mind Over Matter When Mind Is The Matter
-* Permission to Fail
+* Permission to Fail, Permission to Try
   I think one of the hardest things I deal with in both my personal projects and in my career is not feeling like I have "permission to fail". I'm hardly the first person to talk about the concept, about the need in creative work to know that it's alright to take chances and make mistakes, but I want to specifically discuss my experiences of dealing with it as someone who is severely mentally ill. I would call my experiences something more akin to "permission to be imperfect"
 
   My problem isn't just that I'm afraid of messing something up dramatically or doing a terrible job. It's more that I'm petrified of even making the slightest mistake. Even while writing this book I have been constantly fighting the urge to delete this repository and nuke it all from orbit [fn:1]. Before each push, I have to fight back a hyperventillating panic because I'm expecting that somehow, someway, someone is going to read the in-progress draft and get so angry at something I said that I'll find hundreds of messages in my inbox telling me to kill myself because I'm clearly so worthless and arrogant for thinking that I was allowed to write any of this. 
 
 It's an irrational response. I know it's an irrational response. It's also a pattern of disordered thinking that's deep seated into how my brain functions. As we've already seen, just knowing that you're experiencing disordered thinking doesn't take the thinking away any more than knowing you have the flu provides you with an immediate cure.
 
-  
+* Needing Validation Isn't Manipulative  
+* Learning to take a compliment
+* Bootstrapping Confidence
+* Excuses are okay
 * Footnotes
 
 [fn:1] It's the only way to be sure.
