@@ -14,7 +14,12 @@
 
    I've had a lot of mixed success. So far I've had some bad breakdowns, been pretty self-sabotaging, had the closest time I ever came (and hopefully ever will) to succeeding in killing myself, and yet also have managed to not give up and keep trying. 
 ** No trick works for everyone (or: did you try exercising?)
-   One of the first things I want to say in this text is that while I'm sharing a lot of my own thoughts about 
+   One of the first things I want to say in this text is that while I'm sharing a lot of my own thoughts about how *I* deal with my own mental illness and what *I* find useful, I want to be very clear that I don't think this applies to everyone else, not only because there are many different kinds of mental disability I don't have experience with, but also because there's so much variation between different people's experiences even *with* the same diagnoses I don't think there's any possible way for one person's experience to be universal.
+
+   I decidedly do not want this book to be like the many self-help books and blogs that talk about the power of positive-thinking or yoga-ing or jogging your way out of being depressed and anxious. I'm not even deriding the people who *were* helped by positive thinking or exercise or any other trick they found useful. I simply believe that there is no silver bullet, no One Weird Trick, that will be a panacea.
+
+   Instead, I just want to share some observations and tricks and thoughts, without any expectation that any of it will necessarily apply to anyone beyond myself. There is no one true way to be mentally ill. There is no one true way to be disabled. Please, don't blame yourself if some of the things in this text don't apply to your or aren't helpful. Your experiences are always legitimate and they are uniquely yours.
+
 * When You've Never Had a Comfort Zone
   One piece of advice that I see *repeatedly* in productivity books and blogs is that you should try to get out of your "comfort zone". You can always find tips about how to get more done and turn your life around by being willing to "take risks" or "get out of your comfort zone". I've never really related to this advice because, well, I'm *literally never comfortable*. 
   
@@ -51,10 +56,15 @@
   + inability to recognize people I know
   + severe suicidal ideation
   + near-constant panic attacks
+
+This is 
+
 * Hitting Your Limits
 * Needing Breaks
 * Worth and Work
+
 * When You Can't (and Shouldn't) Fake It
+  
 * Recovering From a Breakdown
   If you're like me, then sometimes you're going to have a really, really bad breakdown. The kind that means you're not going to be functional for days or even weeks. I think it takes a lot of different forms. For some people, it's the inability to get out of bed for days at a time. For other's, it's overwhelming anxiety so strong it shuts out every other thought you have.
 
@@ -62,7 +72,11 @@
 
   I think it's really disheartening to try and get back into your work after having a period of being unable to do *anything*. It always makes me feel like my attempts to create things or work on my research are completely pointless, because I've lost *all* of my momentum and, if I haven't taken good enough notes (see the next chapter for more on that topic), I may have lost even the plan of what I was doing and all the insights I'd had.
 
-  I've spent
+  There will come a time, though, when you're finally ready to get back to your work. In my experience, it's a terrible idea to try and hit the ground running. If I try to push myself after a breakdown, I just end up feeling frustrated, depressed, and hopeless. What I think is much more productive is allotting yourself time to page information back in, expecting it to take longer than usual to get all the necessary bits and pieces back in your brain. Review your notes. Skim the books or papers you'd been reading before the breakdown. 
+
+  Even if it doesn't feel like it, this paging in is serious work and takes a lot of time. Once you've done it, though, you'll have a much easier time picking up where you left off. 
+
+  It's also completely okay to need to ramp back up to a full work day. I've had days where it's a good day if I can work for just half an hour before getting overwhelmed and exhausted. 
 * Organizing Around Your Memory
   I've already talked a little bit about having "missing time", which is my largest issue of memory, but I know that problems with memory extend far beyond ptsd and dissociative disorders. So, when you have lots of problems with memory and retaining information, how do you work on projects that last more than a few days?
 
@@ -74,10 +88,21 @@
 
   Also, your system of notetaking needs to be at least somewhat portable. You might need to write down thoughts as you're having them no matter where you are. I know that on some days I can lose whatever I was thinking mere moments later, so I need to write things down immediately. Again, I think this is partially just an experience everyone has some of the time, but I know that mental illness can seriously exacerbate the tendency. 
 
-  My primary tool for note taking is [[http://orgmode.org/][org mode]], which is a major mode for Emacs (Emacs itself being a text-editor-turned-near-operating-system). Now, 
+  My primary tool for note taking is [[http://orgmode.org/][org mode]], which is a major mode for Emacs (Emacs itself being a text-editor-turned-near-operating-system), along with Dropbox for synchronization and [[http://www.orgzly.com/][Orgzly]] for taking notes on my mobile. Entire books can be written about using org-mode for organizing your notes, and this isn't going to be one of them, so I would recommend starting with a resource such as [[http://doc.norang.ca/org-mode.html][Organize Your Life In Plain Text]] which is a *very* extensive tutorial in how to use the facilities in org-mode for keeping notes and organizing tasks and information.
+  
 * Communication and Anxiety
 * Illness Isn't Procrastination
+  If you're like me, you're constantly terrified that maybe you're just being lazy and have a terrible work ethic, and that there's nothing really wrong with you at all! Honestly, that's what I thought about myself for the vast majority of my life. It's only in recent years that I've started to understand the basic lesson that *illness* isn't the same as *procrastination*.
+
+  Sometimes things you need to do seem too hard, too exhausting, just too *much*. I know that I have days when writing just doesn't work and times when I'm reading the same sentence of a paper over and over. At times like these, it's best to just put those tasks aside and let them be. 
+
+  Please don't let anyone convince you that you're being lazy when you need to put something off that you just can't do. Far from being lazy, it's actually the difficult and responsible choice to allow yourself time to rest when you don't feel like you should. 
+
+  Indeed, I think it's fairly unlikely that anyone who's mentally ill or disabled is actually going to be lazy. Why? Because when literally every day is hard, I don't think you can afford laziness. Laziness is more of a kind of entitlement, an expectation that one should be able to get things without putting in the same amount of work that everyone else has to. I think of all the many many people I have known who have been mentally ill, there has been perhaps only a single person among them who was actually lazy and even that case is debatable.
+
+  That's why I'm confident in saying that if you're reading this book, it's very unlikely you're an entitled person who wants things handed to them. Try to remind yourself of that if you feel like you're just procrastinating. Not being able to handle doing something now isn't the same as putting it off because you don't care and resent the work.
 * Invisible Disability Is Still Disability
+  
 * Mind Over Matter When Mind Is The Matter
 * Permission to Fail, Permission to Try
   I think one of the hardest things I deal with in both my personal projects and in my career is not feeling like I have "permission to fail". I'm hardly the first person to talk about the concept, about the need in creative work to know that it's alright to take chances and make mistakes, but I want to specifically discuss my experiences of dealing with it as someone who is severely mentally ill. I would call my experiences something more akin to "permission to be imperfect"
@@ -86,13 +111,22 @@
 
 It's an irrational response. I know it's an irrational response. It's also a pattern of disordered thinking that's deep seated into how my brain functions. As we've already seen, just knowing that you're experiencing disordered thinking doesn't take the thinking away any more than knowing you have the flu provides you with an immediate cure.
 
-* Needing Validation Isn't Manipulative  
+* Needing Validation Isn't Manipulative
+  Everyone needs validation sometimes. I think it's universal, because we are social creatures. I think the only people I've seen who claim that they *don't* care about getting some praise or acknowledgment have been folks who are so used to it they can't imagine what not feeling validated is like.
+
+  If your mental illness doesn't allow you to have a proper perspective on yourself, though, you're going to need a lot more validation than average. This is okay, healthy even! It's alright to try and rely on other people you trust to help correct your pathological beliefs. 
+
+  It's not inherently manipulative or petty or vain to need someone to tell you that you're doing a good job. It only crosses that bad line if there's *consequences* when someone can't meet that need, if you punish them for not guessing what you wanted to hear, but that's not unusual to being mentally ill: that's just always the bad way to get validation. 
+
+  At this point, I tend to crowd source my need for validation. I'll send out a tweet spelling out what I managed to get done and explicitly ask for someone to tell me whether that was good enough for a work down. I like doing it that way because it feels very low stress. If someone reads that tweet and wants to say something, they can. If they don't agree or don't want to bother trying to reassure me, that's okay to, they don't have to do it and I won't resent them for it.
 * Learning to take a compliment
 * Bootstrapping Confidence
 * Excuses are okay
+* Working With Others
 * Footnotes
 
 [fn:1] It's the only way to be sure.
+
 
 
   
