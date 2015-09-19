@@ -62,9 +62,8 @@ This is
 * Hitting Your Limits
 * Needing Breaks
 * Worth and Work
-
+* Faking Sanity and why it shouldn't be necessary
 * When You Can't (and Shouldn't) Fake It
-  
 * Recovering From a Breakdown
   If you're like me, then sometimes you're going to have a really, really bad breakdown. The kind that means you're not going to be functional for days or even weeks. I think it takes a lot of different forms. For some people, it's the inability to get out of bed for days at a time. For other's, it's overwhelming anxiety so strong it shuts out every other thought you have.
 
@@ -102,15 +101,15 @@ This is
 
   That's why I'm confident in saying that if you're reading this book, it's very unlikely you're an entitled person who wants things handed to them. Try to remind yourself of that if you feel like you're just procrastinating. Not being able to handle doing something now isn't the same as putting it off because you don't care and resent the work.
 * Invisible Disability Is Still Disability
-  
 * Mind Over Matter When Mind Is The Matter
 * Permission to Fail, Permission to Try
   I think one of the hardest things I deal with in both my personal projects and in my career is not feeling like I have "permission to fail". I'm hardly the first person to talk about the concept, about the need in creative work to know that it's alright to take chances and make mistakes, but I want to specifically discuss my experiences of dealing with it as someone who is severely mentally ill. I would call my experiences something more akin to "permission to be imperfect"
 
-  My problem isn't just that I'm afraid of messing something up dramatically or doing a terrible job. It's more that I'm petrified of even making the slightest mistake. Even while writing this book I have been constantly fighting the urge to delete this repository and nuke it all from orbit [fn:1]. Before each push, I have to fight back a hyperventillating panic because I'm expecting that somehow, someway, someone is going to read the in-progress draft and get so angry at something I said that I'll find hundreds of messages in my inbox telling me to kill myself because I'm clearly so worthless and arrogant for thinking that I was allowed to write any of this. 
+  My problem isn't just that I'm afraid of messing something up dramatically or doing a terrible job. It's more that I'm petrified of even making the slightest mistake. Even while writing this book I have been constantly fighting the urge to delete this repository and nuke it all from orbit. Before each push, I have to fight back a hyperventillating panic because I'm expecting that somehow, someway, someone is going to read the in-progress draft and get so angry at something I said that I'll find hundreds of messages in my inbox telling me to kill myself because I'm clearly so worthless and arrogant for thinking that I was allowed to write any of this. 
 
-It's an irrational response. I know it's an irrational response. It's also a pattern of disordered thinking that's deep seated into how my brain functions. As we've already seen, just knowing that you're experiencing disordered thinking doesn't take the thinking away any more than knowing you have the flu provides you with an immediate cure.
+  It's an irrational response. I know it's an irrational response. It's also a pattern of disordered thinking that's deep seated into how my brain functions. As we've already seen, just knowing that you're experiencing disordered thinking doesn't take the thinking away any more than knowing you have the flu provides you with an immediate cure.
 
+  What happens, though, when you do make a mistake? We all make mistakes. That's a given. What I personally have trouble with is the panic attack that comes *with* the mistake. Like a lot of my panic attacks, it will probably sound silly to say that whenever I actually mess something up that I get afraid for my very safety. 
 * Needing Validation Isn't Manipulative
   Everyone needs validation sometimes. I think it's universal, because we are social creatures. I think the only people I've seen who claim that they *don't* care about getting some praise or acknowledgment have been folks who are so used to it they can't imagine what not feeling validated is like.
 
@@ -123,10 +122,20 @@ It's an irrational response. I know it's an irrational response. It's also a pat
 * Bootstrapping Confidence
 * Excuses are okay
 * Working With Others
-* Footnotes
+* Diagnosis Isn't Magic
+* When Sprinting is Dangerous
+* When Creativity Makes You Crazy
+* Mistakes Aren't Lethal
+* Preventing Spirals
+* Dealing With Being Overwhelmed
+* Self-Sabotage
+* Hating Yourself and Distorted Mirrors
+* Needing Help Is Okay
+* On Incremental Progress and a Cheesy Metaphor
+* Choosing reasonable goals
+* Ups and Downs
+* Hypervigilance and Focus
+* Riding Out Bad Brain States
+* The Worst Moments Aren't Eternal
+* Envying the Healthy
 
-[fn:1] It's the only way to be sure.
-
-
-
-  
