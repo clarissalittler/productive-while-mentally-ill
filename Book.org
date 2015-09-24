@@ -43,8 +43,15 @@
 
   I think that's why I picture my own mental health, only quarter jokingly, as sanity points (SP). On some level, it's not terribly different than the "spoon theory" (ref), but it's a metaphor that I find a bit more convenient.
 
-  I find it helpful to visualize how many SP different actions throughout the day will cost me. I take stock of how many SP I seem to have each morning when I wake up. 
-  (...)
+  I find it helpful to visualize how many SP different actions throughout the day will cost me. I try to take stock of how many SP I seem to have each morning when I wake up. 
+  
+  If it's a lot of SP, then it's going to be a good day (as long as I don't [[*When%20Sprinting%20is%20Dangerous][sprint]]). If it's very little SP, then I'm going to have a hard time just making sure I feed myself and don't do anything self-destructive. 
+
+  The lesson I've learned the hard way is that it's a really bad idea to try and keep working when you don't have much or any SP left to work with because I swear that SP recovery is an exponential process: the rate of recovery is dice roll with a multiplier directly proportional to how much you have left at the end of the day. If you have a lot of sanity left over at the end of the day, then you're more likely to have a lot of sanity the next morning if you sleep well. If you have very little sanity left over, then you're not likely to be very capable to function the next day even with a decent amount of rest. 
+
+  This may not be true for everyone, but it's more or less been my experience, and it's affected how I have to operate when I'm in a low-SP state. I've made the mistake of grinding hard even when I'm almost out of sanity and the end result has been me spending weeks, months, or even several years after I finished my Bachelor's barely able to do anything. 
+
+  So I'd advise anyone reading this to *actually rest* when they're having non-functional days, because that's the only way to get out of that horrible state of just barely treading water day after hopeless day.
 * When Write Every Day Doesn't Work
   I always heard the maxim "write every day". Just write X words per day and you'll have an amazing career as a writer. It's what makes you a real writer. Real writers write whenever they can. Real writers can't be stopped from writing every day. Real writers claw their way, barehanded, from the depths of the underworld in order to reach their vintage typewriter and *write every day*.
 
@@ -57,7 +64,9 @@
   + severe suicidal ideation
   + near-constant panic attacks
 
-This is 
+Some days it just isn't possible to actually get things done or, even if you do get work done, it's not going to be everything you wanted.
+
+As I was saying in the previous section on sanity points, sometimes you 
 
 * Hitting Your Limits
 * Needing Breaks
@@ -127,6 +136,7 @@ This is
 
   I've seeing growing talk, often *within* activism on disability and chronic illness, that there's some sort of danger to being "self-diagnosed". That it encourages people to label themselves inappropriately, detracting from those of us who've been diagnosed with *real* mental illnesses. The logic seems to be that you can't know that you have PTSD, or OCD, or schizophrenia, or a dissociative disorder, simply because 
 * When Sprinting is Dangerous
+  
 * When Creativity Makes You Crazy
 * Mistakes Aren't Lethal
 * Preventing Spirals
