@@ -137,19 +137,33 @@ As I was saying in the previous section on sanity points, sometimes you
   There's two smaller topics I want to discuss here. The first, the backlash I've seen against the idea of "self-diagnosis". The second, the idea that being officially diagnosed is some major milestone for dealing with mental illness.
 
   I've seeing growing talk, often *within* activism on disability and chronic illness, that there's some sort of danger to being "self-diagnosed". That it encourages people to label themselves inappropriately, detracting from those of us who've been diagnosed with *real* mental illnesses. The logic seems to be that you can't know that you have PTSD, or OCD, or schizophrenia, or a dissociative disorder, simply because 
+** Narratives around recovery rely on diagnosis and medical treatment as an end-point, not potentially just a beginning
+** Narratives around mental illness imply that self-diagnosis is somehow harmful to everyone involved
 * When Sprinting is Dangerous
-  
+** Working as hard as you can leads to burnout
+** Burnout leads to self-injury, self-destruction, and loss of work
 * When Creativity Makes You Crazy
+** Sometimes the ability to think creatively means that psychotic or traumatized parts of your brain are active
+** In my experience the more clearly I can think 
 * Mistakes Aren't Lethal
 * Preventing Spirals
 * Dealing With Being Overwhelmed
 * Self-Sabotage
+** I have a horrible history of self-sabotage
+** I've literally destroyed notes and research I needed
+** Obviously this is bad
+*** But how do you prevent it?
+** Preventing self-sabotage with shared ownership
+** Preventing self-sabotage by data replication
 * Hating Yourself and Distorted Mirrors
 * Needing Help Is Okay
 * On Incremental Progress and a Cheesy Metaphor
 * Choosing reasonable goals
 * Ups and Downs
 * Hypervigilance and Focus
+** Hypervigilance means you can't focus
+*** My experience with this is pretty bad
+*** I've had times where I can't read, write, or even understand my old notes
 * Riding Out Bad Brain States
 * The Worst Moments Aren't Eternal
   Since, in my worst moments, I lose lucidity and all ability to guage anything about my surroundings I also end up having a lot of trouble understanding time. Recently from the time of writing this section I was ill for almost a week, which lead to me have a mental breakdown that more or less destroyed my ability to work for another week. 
